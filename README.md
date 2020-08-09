@@ -1,1 +1,1 @@
-# Simple-Shopping-Cart
+# Simple-ShoppingCart
